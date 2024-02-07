@@ -1,0 +1,292 @@
+body {
+    margin: 0;
+    padding: 0;
+    --font-family-sans-serif: "Nunito", sans-serif;
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: #181818;
+    color: #ffffff;
+    padding: 1px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    text-align: center;
+}
+
+footer {
+    background-color: #181818;
+    color: #ffffff;
+    padding: 5px;
+    text-align: center;
+    --font-family-sans-serif: "Nunito", sans-serif;
+}
+
+.nolink {
+    text-decoration: none; 
+    color: inherit; 
+    --font-family-sans-serif: "Nunito", sans-serif;
+}
+
+.tekst {
+        color: #ffffff; 
+        transition: color 0.3s; 
+        --font-family-sans-serif: "Nunito", sans-serif;
+        font-weight: bolder;
+        font-size: larger;
+    }
+
+.tekst:hover {
+        color: #757575;
+    }
+
+.text {
+        color: black;
+        transition: color 0.3s; 
+        --font-family-sans-serif: "Nunito", sans-serif;
+}
+
+.text:hover {
+    color: #757575;
+}
+
+.lijst-container {
+        display: flex; 
+        list-style: none;
+        padding: 0;
+        scale: none;
+        --font-family-sans-serif: "Nunito", sans-serif;
+    }
+
+.lijst-item {
+        margin-right: 20px; 
+        scale: none;
+        --font-family-sans-serif: "Nunito", sans-serif;
+    }
+
+.fullimg {
+        width: 100%;
+        height: 100%;
+        scale: none;
+    }
+
+.artimg {
+        width: 100%;
+}
+
+.artflex {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction:row;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.artone {
+    width: 56%;
+}
+
+.arttwo {
+    width: 45%;
+}
+
+.artthree {
+    width: 45%;
+}
+
+.artfour {
+    width: 56%;
+}
+
+.arttitel {
+    width: 80%;
+    margin-left: 5%;
+}
+
+.arttekst {
+    width: 70%;
+    margin-left: 10%;
+}
+
+.cartekst {
+    width: 70%;
+    margin-left: 7%;
+}
+
+.overons {
+    width: 50%;
+}
+
+.slideshow-container {
+    position: relative;
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.mySlides {
+    display: none;
+    width: 100%;
+    height: auto;
+    transform: translateX(-100%); 
+    transition: transform 0.5s ease-in-out; 
+}
+
+
+.fit { /* Front image tekst */
+        text-align: center;
+        color:#ffffff;
+        position: absolute;
+        font-size: 20px;
+        bottom: 7%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        scale: none;
+        font-family: 'Elephant', sans-serif;
+    }
+
+.fol { /* Feitje order list */ 
+        text-align: center; 
+        display: flex;
+        scale: none;
+    }
+
+.flt { /* Footer List Tekst */
+    text-align: center;
+    font-size: 10px;
+    scale: none;
+}
+
+.att { /*Artikel Title Tekst */
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.at { /*Artikel Tekst */
+    text-align: center;
+    font-size: 20px;
+    color: rgb(40, 40, 40);
+    font-family: 'arial', sans-serif;
+}
+
+.ctt { /*Car Title Tekst */
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.ct { /*Car Tekst */
+    text-align: left;
+    font-size: 20px;
+    color: rgb(40, 40, 40);
+    font-family: 'arial', sans-serif;
+}
+
+.alm { /*Artikel Lees Meer */
+    text-align: center;
+    margin-right: 8%;
+    font-family: 'Elephant', sans-serif;
+}
+
+.discovery { /* over ons max dic */
+background-color: #ffc;
+}
+
+.credit { /* div kosten */
+margin: 5%;
+}
+
+.hone { /* History one  */
+     width: 25%;
+     
+}
+
+.htwo { /* History two  */
+    width: 50%;
+    
+}
+
+.bophop{ /* tof terminated text */
+    color: red;
+    cursor: not-allowed;
+}
+
+.winter{ /* table geschiedenis */
+    border: 2px solid #000000;
+}
+
+.mario_party{ /* tof agree text */
+    font-size:20px ;
+    color: green;
+cursor: help;
+}
+
+.piet_pietersen{ /* button tof */
+    cursor: grab  ;
+}
+
+.toads_worth{ /* titel feitjes */
+  text-align: center;  
+  font-size: 50px;
+}
+
+
+.grimm{ /* div feitjes */
+    text-align: center;
+    
+}
+
+.regenboog{ /* list feitjes */
+    flex-direction: column-reverse;
+    font-family: 'arial', sans-serif;
+}
+
+.auit { /*About Is Image Text */
+    position: relative;
+  text-align: center;
+  color: white;
+}
+.auht { /*About Us Head Text */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.aumt { /*About Us Middle Text */
+    text-align: center;
+}
+
+.aupt { /*About Us Person Text */
+    font-size: 20px;
+    color: rgb(40, 40, 40);
+    font-family: 'arial', sans-serif;
+    line-height: 0.2;
+}
+
+.auptt { /*About Us Person Titel Text */
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.fetone {
+    width: 33%;
+}
+
+.fettwo {
+    width: 33%;
+}
+
+.fetthree {
+    width: 33%;
+}
+
+.ffi {
+    width: 100%;
+}
+
+.ftd { /*Feitjes Tekst Div */
+    width: 33%;
+}
