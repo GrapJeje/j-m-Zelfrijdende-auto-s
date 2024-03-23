@@ -41,4 +41,14 @@ https://www.audi.nl/nl/web/nl/voorsprong/zelfrijdende-auto/niveaus.html
 Mercedes 
 https://www.notebookcheck.nl/Mercedes-Benz-biedt-Drive-Pilot-aan-in-EQS-en-S-Klasse-modellen-als-eerste-goedgekeurde-zelfrijdende-auto-s-in-Europa.618813.0.html
 
-The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.
+
+
+
+Er moet minimaal 4 links op een afbeelding worden gemaakt. De menuknoppen laten we daarbij buiten beschouwing.
+Er moet minimaal een toepasselijke video of geluidsfragment worden toegevoegd.
+Je website dient minimaal twee tabellen en ook een opsomminglijst te bevatten.
+Bij langere pagina's moet je je navigatie uitbreiden met ankers. Zowel van boven naar beneden als van beneden naar boven. Er dienen sowieso minstens 4 links te zijn naar een anker. Dus je zorgt voor minstens 1 extra lange webpagina
+De totale omvang moet een ruime hoeveelheid informatieve tekst zonder plagiaat bevatten. (Minimaal 600 woorden per persoon.)
+In het onlineboek staan in module C1-2 paragraaf 1.3 eisen waar je website aan moet voldoen met betrekking tot doelgerichtheid en toegankelijkheid.
+Er mogen geen fouten in voorkomen volgens de syntax van HTML5. Daarom controleer je iedere webpagina met behulp van validator.w3.org
+Je website moet je uploaden naar Internet. Controleer frequent online of jullie code doet wat hij ook offline laat zien.

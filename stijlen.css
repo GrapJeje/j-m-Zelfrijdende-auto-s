@@ -144,6 +144,7 @@ footer {
         transform: translate(-50%, -50%);
         scale: none;
         font-family: 'Elephant', sans-serif;
+        list-style-type: none;
     }
 
 .fol { /* Feitje order list */ 
@@ -235,7 +236,13 @@ cursor: help;
 
 .grimm{ /* div feitjes */
     text-align: center;
+
     
+}
+
+.red_is_sus{ /* div tos */
+    text-align: left;
+    margin-left: 5%;
 }
 
 .regenboog{ /* list feitjes */
